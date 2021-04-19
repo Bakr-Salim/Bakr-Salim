@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bakr-Salim
 - 👀 I’m interested in Software Engineering, Software Testing, and Artificial Intelligence.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning.
 - 📫 How to reach me (GitHub website).
 
 <!---
